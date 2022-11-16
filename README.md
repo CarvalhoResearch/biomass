@@ -31,5 +31,9 @@ col_name= string, nome da coluna a ser criada para salvar a biomassa
 
 retorno: retorna a mesma tabela com uma coluna a mais com a biomassa calculada usando as equações de Sampaio e Silva (2015)
 
+# References
+
+
+Sampaio, E. V. S. B., & Silva, G. C. (2005). Biomass equations for Brazilian semiarid caatinga plants. Acta Botanica Brasilica, 19(4), 935–943. https://doi.org/10.1590/S0102-33062005000400028
 
 
