@@ -18,12 +18,17 @@ Usamos a equação proposta por Sampaio e Silva (2015).
 
 # Função 1: calc_perfilhos_diam
 parâmetros: table= objeto, tabela de campo, circ: string, nome da coluna que contém as circunferências.
+
 retorno: retorna a mesma tabela, com os dados de circunferências transformados em diâmetro.
+
 obs: quando a planta tiver mais de um perfilho, anotar ambos separados por sinal de + (ex: 16+10)
+
 
 # Função 2: compute_biomass
 parâmetros: table= objeto, tabela de campo, d= string, nome da coluna que contém o diâmetro, h= string, nome da coluna que contém a altura
+
 col_name= string, nome da coluna a ser criada para salvar a biomassa 
+
 retorno: retorna a mesma tabela com uma coluna a mais com a biomassa calculada usando as equações de Sampaio e Silva (2015)
 
 
