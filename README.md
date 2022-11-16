@@ -3,7 +3,7 @@
 
 Para calcular a biomassa, primeiro precisamos do diâmetro da planta. Contudo, uma planta pode ter mais de um diâmetro, ou seja, vários perfilhos. 
 Poderíamos somar o perímetro de cada perfilho, mas estaríamos somando também os espaços vazios e, portanto, superestimando a biomassa. Dessa forma, o 
-procedimento padrão é primeiro calcular a área de casa perímetro, somar as áreas e calcular o diâmetro da área total. Veja:
+procedimento padrão é primeiro calcular a área de cada perímetro, somar as áreas e calcular o diâmetro da área total. Veja:
 
 # calcular a área apartir do perímetro:
 A = (C/π)² * π/4 
